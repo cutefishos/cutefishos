@@ -1,11 +1,35 @@
-# 欢迎回来！
+# 计划
+## 当前正在进行的进展
 
-你所喜欢的 CutefishOS 现已重新回归！
+- [ ] 官网筹备
+- [ ] 进行 Ubuntu22.04 的适配
+- [ ] 整理之前的issues 和 pull requests
+= [ ] 修复存在的问题
+- [ ] 新版本新功能的规划
 
-新的官网正在筹备当中（很快到来）...
+## 未来期望的
+- [ ] 继续进行 Arch Linux 的适配
+- [ ] 增加 openEuler Linux 的适配
+- [ ] 更多新功能的增加
+...
 
-# Welcome back！
+## 建议与期望
+如果您有什么好的建议或者期望，欢迎在Issues中提给我们。
 
-Your Favorite CutefishOS are back now！
+# Plan
+## Progressing
+- [ ] Official website preparation
+- [ ] Adapt to Ubuntu22.04
+- [ ] Collate previous issues and pull requests
+= [ ] Fix the existing problem
+- [ ] New features planned for new versions
 
-New website in the works (coming soon)...
+## More
+- [ ] Continue with the Arch Linux adaptation
+- [ ] Added openEuler Linux adaptation
+- [ ] More new features added
+...
+
+## Suggestions and expectations
+If you have any suggestions or expectations, welcome to let us know in the Issues section.
+ 
