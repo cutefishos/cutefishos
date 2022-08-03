@@ -4,7 +4,7 @@
 - [ ] 官网筹备
 - [ ] 进行 Ubuntu22.04 的适配
 - [ ] 整理之前的issues 和 pull requests
-= [ ] 修复存在的问题
+- [ ] 修复存在的问题
 - [ ] 新版本新功能的规划
 
 ## 未来期望的
@@ -21,7 +21,7 @@
 - [ ] Official website preparation
 - [ ] Adapt to Ubuntu22.04
 - [ ] Collate previous issues and pull requests
-= [ ] Fix the existing problem
+- [ ] Fix the existing problem
 - [ ] New features planned for new versions
 
 ## More
