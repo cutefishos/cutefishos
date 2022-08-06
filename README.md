@@ -33,3 +33,19 @@
 ## Suggestions and expectations
 If you have any suggestions or expectations, welcome to let us know in the Issues section.
  
+# Programmes
+## Progrès actuels
+- [ ] Préparation du site officiel
+- [ ] Adaptation à ubuntu 22.04
+- [ ] Organiser l'arriéré de propositions et de demandes
+- [ ] Régler un problème existant
+- [ ] Planification des nouvelles versions et fonctionnalités
+
+## Futur souhaité
+- [ ] Le travail se poursuit sur l'adaptation d'arch linux
+- [ ] Ajout d'adaptations pour openEuler linux
+- [ ] Ajout de nouvelles fonctionnalités
+...
+
+## Recommandations et attentes
+Si vous avez des suggestions ou des attentes, n'hésitez pas à nous les communiquer dans Issues.
